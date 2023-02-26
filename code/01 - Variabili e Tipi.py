@@ -11,6 +11,7 @@ three = one + two
 hello = "hello"
 world = "world"
 helloworld = hello + " " + world
+print(helloworld)
 
 # Questo non funzionerà!
 # print one + two + hello
